@@ -4,8 +4,8 @@ This Project aim to show the skills of cleaning data using sql include :
 2) Fill null values using a reference attribute to map
 3) Parse attribute to multiple attribute like address
 4) standarize the values of an attribute .. y,Y => Yes
-5)Removing Duplicate rows using builtinfunction and cte
-6)Removing unused columns
+5) Removing Duplicate rows using builtinfunction and cte
+6) Removing unused columns
 
 /*
 Given 2 file  :
