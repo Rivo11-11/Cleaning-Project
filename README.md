@@ -12,7 +12,7 @@ Given 1 file  :
 1 file sql contain queries that cleaned this data
 
 Link of the dataset :
-[Here](Nashville Housing Data for Data Cleaning.xlsx)
+[Here](https://github.com/AlexTheAnalyst/Por...)
 
 */
 /* 
