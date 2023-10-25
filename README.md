@@ -12,7 +12,7 @@ Given 1 file  :
 1 file sql contain queries that cleaned this data
 
 Link of the dataset :
-[Here]([https://github.com/AlexTheAnalyst/Por...](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql))
+[Here](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql))
 
 */
 /* 
