@@ -8,9 +8,11 @@ This Project aim to show the skills of cleaning data using sql include :
 6) Removing unused columns
 
 /*
-Given 2 file  :
-1 file excel contain the original data
+Given 1 file  :
 1 file sql contain queries that cleaned this data
+
+Link of the dataset :
+[Here](Nashville Housing Data for Data Cleaning.xlsx)
 
 */
 /* 
